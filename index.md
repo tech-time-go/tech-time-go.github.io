@@ -18,4 +18,6 @@ January 21st - May 19th
 
 ### Address
 
-35469 Dumbarton Court, Newark, CA 94560 (Back Door Parking Lot Entry)
+35469 Dumbarton Court, Newark, CA 94560
+
+![](images/map.jpg)
