@@ -8,7 +8,7 @@
 
 [KGS](https://www.gokgs.com/)
 
-## Play at out club
+## Play at our club
 
 35469 Dumbarton Court, Newark, CA 94560
 
