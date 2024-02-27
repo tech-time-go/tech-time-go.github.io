@@ -11,7 +11,9 @@
 
 ## Practise with Life and Death Problems
 
-[101围棋网](https://www.101weiqi.cn/)
+[101 Weiqi](https://www.101weiqi.cn/)
+  - [Chrome extension to localize 101weiqi to English](https://chromewebstore.google.com/detail/101weiqilocalizer/emhhlhigmokehndjjmgnailciakdmoba)
+  - [Firefox extension to localize 101weiqi to English](https://addons.mozilla.org/en-US/firefox/addon/101weiqilocalizer/)
 
 [goproblems.com](https://www.goproblems.com/)
 
