@@ -11,11 +11,9 @@
 
 ## Practise with Life and Death Problems
 
-[101 Weiqi](https://www.101weiqi.cn/)
-  - [Chrome extension to localize 101weiqi to English](https://chromewebstore.google.com/detail/101weiqilocalizer/emhhlhigmokehndjjmgnailciakdmoba)
-  - [Firefox extension to localize 101weiqi to English](https://addons.mozilla.org/en-US/firefox/addon/101weiqilocalizer/)
+[101 Weiqi](https://www.101weiqi.com/)
 
-[goproblems.com](https://www.goproblems.com/)
+Browser extension to localize 101weiqi to English: ([Chrome](https://chromewebstore.google.com/detail/101weiqilocalizer/emhhlhigmokehndjjmgnailciakdmoba)) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/101weiqilocalizer/))
 
 ## The AGA rating system
 
