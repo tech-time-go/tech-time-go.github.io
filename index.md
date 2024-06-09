@@ -9,12 +9,13 @@ All ages and levels are welcome!
 
 ## Classes and Open Play
 
-### 2024 Spring Schedule:
+### 2024 Fall Schedule:
 
-January 21st - May 19th 
+August 18st - December 15th 
 
 9:30 am - 3:00 pm, Every Sunday
 
+![](images/flyer_2024_fall.png)
 
 ### Address
 
