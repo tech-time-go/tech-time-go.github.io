@@ -11,7 +11,7 @@ All ages and levels are welcome!
 
 ### 2024 Fall Schedule:
 
-August 18st - December 15th 
+August 18th - December 15th 
 
 9:30 am - 3:00 pm, Every Sunday
 
