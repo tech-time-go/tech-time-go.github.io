@@ -19,6 +19,6 @@ August 18th - December 15th
 
 ### Address
 
-35469 Dumbarton Court, Newark, CA 94560
+35467 Dumbarton Court, Newark, CA 94560
 
 ![](images/map.jpg)
